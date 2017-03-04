@@ -4,7 +4,7 @@ Created on 27.12.2013
 @author: uhs374h
 """
 import unittest
-from bruch.Bruch import *
+from bruch01.bruch.Bruch import Bruch
 
 
 class TestSubtraktion(unittest.TestCase):

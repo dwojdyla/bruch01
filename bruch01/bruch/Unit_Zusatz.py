@@ -3,7 +3,7 @@ Created on 27.12.2013
 
 @author: uhs374h
 """
-from bruch.Bruch import *
+from bruch01.bruch.Bruch import Bruch
 import unittest
 
 
