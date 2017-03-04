@@ -3,8 +3,9 @@ Created on 27.12.2013
 
 @author: uhs374h
 """
-from bruch01.bruch.Bruch import Bruch
 import unittest
+
+from bruch.Bruch import Bruch
 
 
 class TestAllgemein(unittest.TestCase):

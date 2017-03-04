@@ -4,7 +4,9 @@ Created on 27.12.2013
 @author: uhs374h
 """
 import unittest
-from bruch01.bruch.Bruch import Bruch
+
+from bruch.Bruch import Bruch
+
 
 class TestVergleich(unittest.TestCase):
 
