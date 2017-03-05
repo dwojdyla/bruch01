@@ -272,7 +272,7 @@ class TestMultiplikation(unittest.TestCase):
         assert(float(self.b2) == 3)
 
     def testiMulError(self):
-        self.assertRaises(TypeError, self.b.__imul__(self, "other"))
+        self.assertRaises(TypeError, self.b.__mul__, "other")
 
     def testiMul(self):
         self.b *= 2
