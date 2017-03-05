@@ -5,10 +5,11 @@ Created on 27.12.2013
 """
 import unittest
 
-from bruch.Bruch import Bruch
+from Bruch import *
 
 
 class TestAllgemein(unittest.TestCase):
+
 
     def setUp(self):
         self.b = Bruch(3, 2)
@@ -271,7 +272,7 @@ class TestMultiplikation(unittest.TestCase):
         assert(float(self.b2) == 3)
 
     def testiMulError(self):
-        self.assertRaises(TypeError, self.b.__imul__, "other")
+        self.assertRaises(TypeError, self.b.__imul__(self, "other"))
 
     def testiMul(self):
         self.b *= 2

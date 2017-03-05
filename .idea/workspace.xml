@@ -2,27 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1656bef8-3fbc-4a54-a57b-29adc0899f2a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bruch/doc/source/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bruch/test/__init__ .py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bruch/test/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bruch01/bruch/.travis.yml" afterPath="$PROJECT_DIR$/bruch/.travis.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bruch01/bruch/Bruch.py" afterPath="$PROJECT_DIR$/bruch/Bruch.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bruch01/bruch/Testall.py" afterPath="$PROJECT_DIR$/bruch/Testall.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bruch01/bruch/Unit_Addition.py" afterPath="$PROJECT_DIR$/bruch/Unit_Addition.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bruch01/bruch/Unit_Allgemein.py" afterPath="$PROJECT_DIR$/bruch/Unit_Allgemein.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bruch01/bruch/Unit_Division.py" afterPath="$PROJECT_DIR$/bruch/Unit_Division.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bruch01/bruch/Unit_Multiplikation.py" afterPath="$PROJECT_DIR$/bruch/Unit_Multiplikation.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bruch01/bruch/Unit_String.py" afterPath="$PROJECT_DIR$/bruch/Unit_String.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bruch01/bruch/Unit_Subtraktion.py" afterPath="$PROJECT_DIR$/bruch/Unit_Subtraktion.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bruch01/bruch/Unit_Vergleich.py" afterPath="$PROJECT_DIR$/bruch/Unit_Vergleich.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bruch01/bruch/Unit_Zusatz.py" afterPath="$PROJECT_DIR$/bruch/Unit_Zusatz.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bruch01/bruch/__init__.py" afterPath="$PROJECT_DIR$/bruch/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bruch01/bruch/doc/Makefile" afterPath="$PROJECT_DIR$/bruch/doc/Makefile" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bruch01/bruch/doc/make.bat" afterPath="$PROJECT_DIR$/bruch/doc/make.bat" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bruch01/bruch/doc/source/Bruch.rst" afterPath="$PROJECT_DIR$/bruch/doc/source/Bruch.rst" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bruch01/bruch/doc/source/conf.py" afterPath="$PROJECT_DIR$/bruch/doc/source/conf.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bruch01/bruch/doc/source/index.rst" afterPath="$PROJECT_DIR$/bruch/doc/source/index.rst" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bruch01/bruch/test/__init__ .py" afterPath="$PROJECT_DIR$/bruch/doc/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Bruch.iml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bruch/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bruch/Bruch.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bruch/Testall.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bruch/Unit_Addition.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bruch/Unit_Allgemein.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bruch/Unit_Division.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bruch/Unit_Multiplikation.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bruch/Unit_String.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bruch/Unit_Subtraktion.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bruch/Unit_Vergleich.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bruch/Unit_Zusatz.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bruch/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bruch/doc/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bruch/doc/make.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bruch/doc/source/Bruch.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bruch/doc/source/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bruch/doc/source/conf.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bruch/doc/source/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bruch/test/__init__ .py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bruch/test/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bruch01/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bruch01/.idea/bruch01.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bruch01/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bruch01/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bruch01/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bruch01/__init__.py" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bruch/doc/__init__.py" afterPath="$PROJECT_DIR$/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/bruch01.iml" afterPath="$PROJECT_DIR$/.idea/bruch01.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="bruch01.iws" />
@@ -36,8 +47,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Bruch$Nosetests_in_Unit_Addition.coverage" NAME="Nosetests in Unit_Addition Coverage Results" MODIFIED="1488736413633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bruch$Nosetests_in_Unit_Allgemein.coverage" NAME="Nosetests in Unit_Allgemein Coverage Results" MODIFIED="1488736273455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bruch$Nosetests_in_Unit_Division.coverage" NAME="Nosetests in Unit_Division Coverage Results" MODIFIED="1488736326547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/bruch01$Unittests_in_Unit_Allgemein.coverage" NAME="Unittests in Unit_Allgemein Coverage Results" MODIFIED="1488670495832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bruch01/bruch" />
-    <SUITE FILE_PATH="coverage/bruch01$Unittests_in_Testall2.coverage" NAME="Unittests in Testall2 Coverage Results" MODIFIED="1488670856646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bruch" />
+    <SUITE FILE_PATH="coverage/Bruch$Testall.coverage" NAME="Testall Coverage Results" MODIFIED="1488736340993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bruch01$Unittests_in_Testall2.coverage" NAME="Unittests in Testall2 Coverage Results" MODIFIED="1488674163879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bruch" />
     <SUITE FILE_PATH="coverage/bruch01$Unittests_in_Testall.coverage" NAME="Unittests in Testall Coverage Results" MODIFIED="1488670118295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bruch01/bruch" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -49,11 +64,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Unit_Division.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bruch/Unit_Division.py">
+      <file leaf-file-name="Testall.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Testall.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+            <state relative-caret-position="-322">
+              <caret line="285" column="33" selection-start-line="285" selection-start-column="33" selection-end-line="285" selection-end-column="33" />
+              <folding>
+                <element signature="e#48#63#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Unit_Addition.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Unit_Addition.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+              <folding>
+                <element signature="e#48#63#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Unit_Allgemein.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Unit_Allgemein.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <folding>
+                <element signature="e#48#63#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Unit_Division.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Unit_Division.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
               <folding>
                 <element signature="e#48#63#0" expanded="true" />
               </folding>
@@ -62,10 +113,10 @@
         </entry>
       </file>
       <file leaf-file-name="Unit_Multiplikation.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bruch/Unit_Multiplikation.py">
+        <entry file="file://$PROJECT_DIR$/Unit_Multiplikation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+            <state relative-caret-position="104">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
               <folding>
                 <element signature="e#48#63#0" expanded="true" />
               </folding>
@@ -74,10 +125,10 @@
         </entry>
       </file>
       <file leaf-file-name="Unit_String.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bruch/Unit_String.py">
+        <entry file="file://$PROJECT_DIR$/Unit_String.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
               <folding>
                 <element signature="e#48#63#0" expanded="true" />
               </folding>
@@ -86,10 +137,10 @@
         </entry>
       </file>
       <file leaf-file-name="Unit_Subtraktion.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bruch/Unit_Subtraktion.py">
+        <entry file="file://$PROJECT_DIR$/Unit_Subtraktion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+            <state relative-caret-position="90">
+              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
               <folding>
                 <element signature="e#48#63#0" expanded="true" />
               </folding>
@@ -98,10 +149,10 @@
         </entry>
       </file>
       <file leaf-file-name="Unit_Vergleich.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bruch/Unit_Vergleich.py">
+        <entry file="file://$PROJECT_DIR$/Unit_Vergleich.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
               <folding>
                 <element signature="e#48#63#0" expanded="true" />
               </folding>
@@ -109,11 +160,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Unit_Zusatz.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bruch/Unit_Zusatz.py">
+      <file leaf-file-name="Unit_Zusatz.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Unit_Zusatz.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            <state relative-caret-position="105">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
               <folding>
                 <element signature="e#48#63#0" expanded="true" />
               </folding>
@@ -122,47 +173,11 @@
         </entry>
       </file>
       <file leaf-file-name="Bruch.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bruch/Bruch.py">
+        <entry file="file://$PROJECT_DIR$/Bruch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="-2017">
+              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Unit_Allgemein.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bruch/Unit_Allgemein.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-              <folding>
-                <element signature="e#48#63#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Testall.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bruch/Testall.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding>
-                <element signature="e#48#63#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Unit_Addition.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bruch/Unit_Addition.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-              <folding>
-                <element signature="e#48#63#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -193,7 +208,6 @@
         <option value="$PROJECT_DIR$/bruch01/bruch/Unit_String.py" />
         <option value="$PROJECT_DIR$/bruch01/bruch/Unit_Multiplikation.py" />
         <option value="$PROJECT_DIR$/bruch01/bruch/Unit_Division.py" />
-        <option value="$PROJECT_DIR$/bruch/Testall.py" />
         <option value="$PROJECT_DIR$/bruch/Unit_Addition.py" />
         <option value="$PROJECT_DIR$/bruch/Unit_Allgemein.py" />
         <option value="$PROJECT_DIR$/bruch/Unit_Division.py" />
@@ -202,6 +216,26 @@
         <option value="$PROJECT_DIR$/bruch/Unit_Subtraktion.py" />
         <option value="$PROJECT_DIR$/bruch/Unit_Vergleich.py" />
         <option value="$PROJECT_DIR$/bruch/Unit_Zusatz.py" />
+        <option value="$PROJECT_DIR$/bruch/Testall.py" />
+        <option value="$PROJECT_DIR$/../Bruch/bruch/doc/source/conf.py" />
+        <option value="$PROJECT_DIR$/../Bruch/Unit_Zusatz.py" />
+        <option value="$PROJECT_DIR$/../Bruch/Unit_Allgemein.py" />
+        <option value="$PROJECT_DIR$/../Bruch/Unit_Division.py" />
+        <option value="$PROJECT_DIR$/../Bruch/Unit_Multiplikation.py" />
+        <option value="$PROJECT_DIR$/../Bruch/Unit_String.py" />
+        <option value="$PROJECT_DIR$/../Bruch/Unit_Subtraktion.py" />
+        <option value="$PROJECT_DIR$/../Bruch/Unit_Vergleich.py" />
+        <option value="$PROJECT_DIR$/../Bruch/Unit_Addition.py" />
+        <option value="$PROJECT_DIR$/../Bruch/Testall.py" />
+        <option value="$PROJECT_DIR$/Unit_Addition.py" />
+        <option value="$PROJECT_DIR$/Unit_Allgemein.py" />
+        <option value="$PROJECT_DIR$/Unit_Subtraktion.py" />
+        <option value="$PROJECT_DIR$/Unit_Vergleich.py" />
+        <option value="$PROJECT_DIR$/Unit_Zusatz.py" />
+        <option value="$PROJECT_DIR$/Unit_Division.py" />
+        <option value="$PROJECT_DIR$/Unit_Multiplikation.py" />
+        <option value="$PROJECT_DIR$/Unit_String.py" />
+        <option value="$PROJECT_DIR$/Testall.py" />
       </list>
     </option>
   </component>
@@ -245,52 +279,24 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bruch01" />
+              <option name="myItemId" value="Bruch" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bruch01" />
+              <option name="myItemId" value="Bruch" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="bruch01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bruch01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bruch01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bruch01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bruch01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bruch01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bruch" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -307,53 +313,7 @@
       <recent name="$PROJECT_DIR$/bruch01/bruch/test" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in Testall2">
-    <configuration default="false" name="Unittests in Testall" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="/usr/local/Cellar/python3/3.5.2_3/Frameworks/Python.framework/Versions/3.5/bin/python3.5" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bruch" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="bruch01" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bruch01/bruch/Testall.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests in Unit_Allgemein" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="/usr/local/Cellar/python3/3.5.2_3/Frameworks/Python.framework/Versions/3.5/bin/python3.5" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bruch" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="bruch01" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bruch01/bruch/Unit_Allgemein.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Nosetests in Unit_Addition">
     <configuration default="false" name="Unittests in Testall2" type="tests" factoryName="Unittests" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -373,6 +333,90 @@
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Testall" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="bruch01" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Testall.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Nosetests in Unit_Addition" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="bruch01" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit_Addition.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Nosetests in Unit_Allgemein" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="bruch01" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit_Allgemein.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Nosetests in Unit_Division" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="bruch01" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit_Division.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
       <option name="PARAMS" value="" />
       <option name="USE_PARAM" value="false" />
       <method />
@@ -585,21 +629,28 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in Testall" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in Unit_Allgemein" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in Testall2" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in Testall2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Testall" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Nosetests in Unit_Addition" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Nosetests in Unit_Allgemein" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Nosetests in Unit_Division" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in Testall2" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in Testall" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in Unit_Allgemein" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Nosetests in Unit_Addition" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Testall" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Nosetests in Unit_Division" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Nosetests in Unit_Allgemein" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in Testall2" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -612,8 +663,17 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_Testall - 2017.03.05 at 00h 22m 44s.xml">
-      <configuration name="Unittests in Testall" configurationId="tests" />
+    <history-entry file="Nosetests_in_Unit_Addition - 2017.03.05 at 18h 50m 48s.xml">
+      <configuration name="Nosetests in Unit_Addition" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_Unit_Addition - 2017.03.05 at 18h 53m 35s.xml">
+      <configuration name="Nosetests in Unit_Addition" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_Unit_Allgemein - 2017.03.05 at 18h 51m 13s.xml">
+      <configuration name="Nosetests in Unit_Allgemein" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_Unit_Division - 2017.03.05 at 18h 52m 06s.xml">
+      <configuration name="Nosetests in Unit_Division" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_in_Testall - 2017.03.05 at 00h 24m 39s.xml">
       <configuration name="Unittests in Testall" configurationId="tests" />
@@ -624,24 +684,31 @@
     <history-entry file="Unittests_in_Testall2 - 2017.03.05 at 00h 40m 56s.xml">
       <configuration name="Unittests in Testall2" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_Testall2 - 2017.03.05 at 01h 34m 12s.xml">
+      <configuration name="Unittests in Testall2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Testall2 - 2017.03.05 at 01h 36m 04s.xml">
+      <configuration name="Unittests in Testall2" configurationId="tests" />
+    </history-entry>
     <history-entry file="Unittests_in_Unit_Allgemein - 2017.03.05 at 00h 34m 56s.xml">
       <configuration name="Unittests in Unit_Allgemein" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="839" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="839" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26037195" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32931727" sideWeight="0.50858366" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931727" sideWeight="0.5171674" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32931727" sideWeight="0.4914163" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931727" sideWeight="0.4828326" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27110156" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -649,9 +716,30 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931727" sideWeight="0.49427754" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32931727" sideWeight="0.5171674" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32931727" sideWeight="0.4828326" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27110156" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931727" sideWeight="0.49427754" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -665,65 +753,50 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bruch/Unit_Division.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-          <folding>
-            <element signature="e#48#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bruch/Bruch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bruch/.travis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bruch/Unit_Allgemein.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#48#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bruch/Unit_Division.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-          <folding>
-            <element signature="e#48#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bruch/Bruch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bruch/.travis.yml">
+    <entry file="file://$PROJECT_DIR$/bruch/Unit_Subtraktion.py" />
+    <entry file="file://$PROJECT_DIR$/bruch/Unit_Vergleich.py" />
+    <entry file="file://$PROJECT_DIR$/bruch/Unit_Zusatz.py" />
+    <entry file="file://$PROJECT_DIR$/bruch/Bruch.py" />
+    <entry file="file://$PROJECT_DIR$/bruch/Unit_Allgemein.py" />
+    <entry file="file://$PROJECT_DIR$/bruch/Testall.py" />
+    <entry file="file://$PROJECT_DIR$/bruch/Unit_Addition.py" />
+    <entry file="file://$PROJECT_DIR$/bruch/Unit_Division.py" />
+    <entry file="file://$PROJECT_DIR$/bruch/Bruch.py" />
+    <entry file="file://$PROJECT_DIR$/bruch/.travis.yml" />
+    <entry file="file://$PROJECT_DIR$/bruch/Unit_Allgemein.py" />
+    <entry file="file://$PROJECT_DIR$/bruch/Unit_Division.py" />
+    <entry file="file://$PROJECT_DIR$/bruch/Bruch.py" />
+    <entry file="file://$PROJECT_DIR$/bruch/.travis.yml" />
+    <entry file="file://$PROJECT_DIR$/bruch/Unit_Allgemein.py" />
+    <entry file="file://$PROJECT_DIR$/bruch/.travis.yml" />
+    <entry file="file://$PROJECT_DIR$/bruch/Unit_Addition.py" />
+    <entry file="file://$PROJECT_DIR$/bruch/Unit_Allgemein.py" />
+    <entry file="file://$PROJECT_DIR$/bruch/Unit_Division.py" />
+    <entry file="file://$PROJECT_DIR$/bruch/Unit_Multiplikation.py" />
+    <entry file="file://$PROJECT_DIR$/bruch/Unit_String.py" />
+    <entry file="file://$PROJECT_DIR$/bruch/Unit_Subtraktion.py" />
+    <entry file="file://$PROJECT_DIR$/bruch/Unit_Vergleich.py" />
+    <entry file="file://$PROJECT_DIR$/bruch/Unit_Zusatz.py" />
+    <entry file="file://$PROJECT_DIR$/bruch/Bruch.py" />
+    <entry file="file://$PROJECT_DIR$/bruch/Testall.py" />
+    <entry file="file://$PROJECT_DIR$/../Bruch/Bruch.py" />
+    <entry file="file://$PROJECT_DIR$/../Bruch/Unit_Vergleich.py" />
+    <entry file="file://$PROJECT_DIR$/../Bruch/Unit_Subtraktion.py" />
+    <entry file="file://$PROJECT_DIR$/../Bruch/Unit_String.py" />
+    <entry file="file://$PROJECT_DIR$/../Bruch/Unit_Multiplikation.py" />
+    <entry file="file://$PROJECT_DIR$/../Bruch/Unit_Division.py" />
+    <entry file="file://$PROJECT_DIR$/../Bruch/Unit_Allgemein.py" />
+    <entry file="file://$PROJECT_DIR$/../Bruch/Unit_Addition.py" />
+    <entry file="file://$PROJECT_DIR$/../Bruch/Unit_Zusatz.py" />
+    <entry file="file://$PROJECT_DIR$/../Bruch/Testall.py" />
+    <entry file="file://$PROJECT_DIR$/../Bruch/bruch/doc/source/conf.py" />
+    <entry file="file://$PROJECT_DIR$/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -731,17 +804,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bruch/Unit_Allgemein.py">
+    <entry file="file:///usr/local/Cellar/python3/3.5.2_3/Frameworks/Python.framework/Versions/3.5/lib/python3.5/unittest/case.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#48#63#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="6360">
+          <caret line="437" column="8" selection-start-line="437" selection-start-column="8" selection-end-line="437" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bruch/.travis.yml">
+    <entry file="file://$PROJECT_DIR$/bruch/test/__init__ .py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -749,98 +820,106 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bruch/Bruch.py">
+    <entry file="file://$PROJECT_DIR$/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bruch/Testall.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#48#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bruch/Unit_Addition.py">
+    <entry file="file://$PROJECT_DIR$/Unit_Allgemein.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
           <folding>
             <element signature="e#48#63#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bruch/Unit_Allgemein.py">
+    <entry file="file://$PROJECT_DIR$/Unit_String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <element signature="e#48#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit_Subtraktion.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
           <folding>
             <element signature="e#48#63#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bruch/Unit_Division.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-          <folding>
-            <element signature="e#48#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bruch/Unit_Multiplikation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-          <folding>
-            <element signature="e#48#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bruch/Unit_String.py">
+    <entry file="file://$PROJECT_DIR$/Unit_Vergleich.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
           <folding>
             <element signature="e#48#63#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bruch/Unit_Subtraktion.py">
+    <entry file="file://$PROJECT_DIR$/Unit_Zusatz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <element signature="e#48#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit_Multiplikation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
           <folding>
             <element signature="e#48#63#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bruch/Unit_Vergleich.py">
+    <entry file="file://$PROJECT_DIR$/Unit_Division.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
           <folding>
             <element signature="e#48#63#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bruch/Unit_Zusatz.py">
+    <entry file="file://$PROJECT_DIR$/Bruch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        <state relative-caret-position="-2017">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-322">
+          <caret line="285" column="33" selection-start-line="285" selection-start-column="33" selection-end-line="285" selection-end-column="33" />
+          <folding>
+            <element signature="e#48#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit_Addition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
           <folding>
             <element signature="e#48#63#0" expanded="true" />
           </folding>
