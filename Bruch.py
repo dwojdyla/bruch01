@@ -1,5 +1,5 @@
 """This module representantes a Bruch engl. fraction"""
-
+from __future__ import division, print_function, unicode_literals
 
 class Bruch(object):
     """ Bruch
@@ -30,6 +30,8 @@ class Bruch(object):
         :Example: Multiplicatio  of two fractions
 
     """
+    def __iter__(self):
+        return (self.zaehler, self.nenner).__iter__()
 
     def __init__(self, zaehler=0, nenner=1):
         """
@@ -99,7 +101,9 @@ class Bruch(object):
         :return: Object of Bruch
 
         """
-        return self.__add__(other)
+        tmp = Bruch.__makeBruch(other)
+        self = self + tmp
+        return self
 
     def __radd__(self, other):
         """
@@ -109,7 +113,9 @@ class Bruch(object):
         :return: Bruch
 
         """
-        return self.__add__(other)
+        tmp = Bruch.__makeBruch(other)
+        self = self + tmp
+        return self
 
     def __eq__(self, other):
         """
@@ -170,7 +176,13 @@ class Bruch(object):
         :return: self
 
         """
-        return self.__rdiv__(other)
+        if type(other) is int:
+            z2 = other * self.nenner
+            if self.zaehler == 0:
+                raise ZeroDivisionError
+            return Bruch(z2, self.zaehler)
+        else:
+            raise TypeError('incompatible types:'+type(other).__name__)
 
     def __itruediv__(self, other):
         """
@@ -217,7 +229,9 @@ class Bruch(object):
 
         :return:
         """
-        return self.__mul__(other)
+        tmp = Bruch.__makeBruch(other)
+        self = self * tmp
+        return self
 
     def __rmul__(self, other):
         """
@@ -253,7 +267,9 @@ class Bruch(object):
 
         :return: self
         """
-        return self.__sub__(other)
+        tmp = Bruch.__makeBruch(other)
+        self = self - tmp
+        return self
 
     def __rsub__(self, value):
         """

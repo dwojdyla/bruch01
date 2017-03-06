@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1656bef8-3fbc-4a54-a57b-29adc0899f2a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bruch.py" afterPath="$PROJECT_DIR$/Bruch.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Testall.py" afterPath="$PROJECT_DIR$/Testall.py" />
     </list>
     <ignored path="bruch01.iws" />
@@ -15,9 +17,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Bruch$Nosetests_in_Unit_Addition.coverage" NAME="Nosetests in Unit_Addition Coverage Results" MODIFIED="1488736413633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bruch$Nosetests_in_Unit_Addition.coverage" NAME="Nosetests in Unit_Addition Coverage Results" MODIFIED="1488748956445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Bruch$Nosetests_in_Unit_Allgemein.coverage" NAME="Nosetests in Unit_Allgemein Coverage Results" MODIFIED="1488736273455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Bruch$Nosetests_in_Unit_Division.coverage" NAME="Nosetests in Unit_Division Coverage Results" MODIFIED="1488736326547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bruch$Nosetests_in_Unit_Division.coverage" NAME="Nosetests in Unit_Division Coverage Results" MODIFIED="1488748947862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/bruch01$Unittests_in_Unit_Allgemein.coverage" NAME="Unittests in Unit_Allgemein Coverage Results" MODIFIED="1488670495832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bruch01/bruch" />
     <SUITE FILE_PATH="coverage/Bruch$Testall.coverage" NAME="Testall Coverage Results" MODIFIED="1488737591556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/bruch01$Unittests_in_Testall2.coverage" NAME="Unittests in Testall2 Coverage Results" MODIFIED="1488674163879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bruch" />
@@ -32,119 +34,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Testall.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Testall.py">
+      <file leaf-file-name="Bruch.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Bruch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-              <folding>
-                <element signature="e#48#63#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Unit_Addition.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unit_Addition.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-              <folding>
-                <element signature="e#48#63#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Unit_Allgemein.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unit_Allgemein.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-              <folding>
-                <element signature="e#48#63#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Unit_Division.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unit_Division.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-              <folding>
-                <element signature="e#48#63#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Unit_Multiplikation.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unit_Multiplikation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-              <folding>
-                <element signature="e#48#63#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Unit_String.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unit_String.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-              <folding>
-                <element signature="e#48#63#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Unit_Subtraktion.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unit_Subtraktion.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-              <folding>
-                <element signature="e#48#63#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Unit_Vergleich.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unit_Vergleich.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-              <folding>
-                <element signature="e#48#63#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Unit_Zusatz.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unit_Zusatz.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-              <folding>
-                <element signature="e#48#63#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-1036">
+              <caret line="269" column="37" selection-start-line="269" selection-start-column="37" selection-end-line="269" selection-end-column="37" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Bruch.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bruch.py">
+        <entry file="file://$USER_HOME$/Downloads/bruch/Bruch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+            <state relative-caret-position="230">
+              <caret line="188" column="36" selection-start-line="188" selection-start-column="33" selection-end-line="188" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -195,7 +99,6 @@
         <option value="$PROJECT_DIR$/../Bruch/Unit_Vergleich.py" />
         <option value="$PROJECT_DIR$/../Bruch/Unit_Addition.py" />
         <option value="$PROJECT_DIR$/../Bruch/Testall.py" />
-        <option value="$PROJECT_DIR$/Unit_Addition.py" />
         <option value="$PROJECT_DIR$/Unit_Allgemein.py" />
         <option value="$PROJECT_DIR$/Unit_Subtraktion.py" />
         <option value="$PROJECT_DIR$/Unit_Vergleich.py" />
@@ -204,6 +107,8 @@
         <option value="$PROJECT_DIR$/Unit_Multiplikation.py" />
         <option value="$PROJECT_DIR$/Unit_String.py" />
         <option value="$PROJECT_DIR$/Testall.py" />
+        <option value="$PROJECT_DIR$/Unit_Addition.py" />
+        <option value="$PROJECT_DIR$/Bruch.py" />
       </list>
     </option>
   </component>
@@ -214,6 +119,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="14" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="839" />
@@ -243,6 +149,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -264,7 +171,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -281,7 +187,7 @@
       <recent name="$PROJECT_DIR$/bruch01/bruch/test" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Testall">
+  <component name="RunManager" selected="Python tests.Nosetests in Unit_Addition">
     <configuration default="false" name="Unittests in Testall2" type="tests" factoryName="Unittests" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -606,9 +512,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Testall" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Nosetests in Unit_Addition" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Nosetests in Unit_Division" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Nosetests in Unit_Addition" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Nosetests in Unit_Division" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Testall" />
         <item index="3" class="java.lang.String" itemvalue="Python tests.Nosetests in Unit_Allgemein" />
         <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in Testall2" />
       </list>
@@ -631,23 +537,23 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Nosetests_in_Unit_Addition - 2017.03.05 at 18h 50m 48s.xml">
+    <history-entry file="Nosetests_in_Unit_Addition - 2017.03.05 at 22h 22m 01s.xml">
       <configuration name="Nosetests in Unit_Addition" configurationId="tests" />
     </history-entry>
-    <history-entry file="Nosetests_in_Unit_Addition - 2017.03.05 at 18h 53m 35s.xml">
+    <history-entry file="Nosetests_in_Unit_Addition - 2017.03.05 at 22h 22m 06s.xml">
       <configuration name="Nosetests in Unit_Addition" configurationId="tests" />
     </history-entry>
-    <history-entry file="Nosetests_in_Unit_Allgemein - 2017.03.05 at 18h 51m 13s.xml">
-      <configuration name="Nosetests in Unit_Allgemein" configurationId="tests" />
+    <history-entry file="Nosetests_in_Unit_Addition - 2017.03.05 at 22h 22m 15s.xml">
+      <configuration name="Nosetests in Unit_Addition" configurationId="tests" />
     </history-entry>
-    <history-entry file="Nosetests_in_Unit_Division - 2017.03.05 at 18h 52m 06s.xml">
+    <history-entry file="Nosetests_in_Unit_Addition - 2017.03.05 at 22h 22m 22s.xml">
+      <configuration name="Nosetests in Unit_Addition" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_Unit_Addition - 2017.03.05 at 22h 22m 36s.xml">
+      <configuration name="Nosetests in Unit_Addition" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_Unit_Division - 2017.03.05 at 22h 22m 28s.xml">
       <configuration name="Nosetests in Unit_Division" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_Testall - 2017.03.05 at 00h 24m 39s.xml">
-      <configuration name="Unittests in Testall" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_Testall - 2017.03.05 at 00h 28m 38s.xml">
-      <configuration name="Unittests in Testall" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_in_Testall2 - 2017.03.05 at 00h 40m 56s.xml">
       <configuration name="Unittests in Testall2" configurationId="tests" />
@@ -663,29 +569,29 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="839" extended-state="0" />
+    <frame x="14" y="23" width="1440" height="839" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2746781" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27825466" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931727" sideWeight="0.5171674" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.4828326" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931727" sideWeight="0.4828326" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931727" sideWeight="0.49427754" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -727,7 +633,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bruch/Unit_Subtraktion.py" />
     <entry file="file://$PROJECT_DIR$/bruch/Unit_Vergleich.py" />
     <entry file="file://$PROJECT_DIR$/bruch/Unit_Zusatz.py" />
     <entry file="file://$PROJECT_DIR$/bruch/Bruch.py" />
@@ -817,16 +722,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Unit_Zusatz.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          <folding>
-            <element signature="e#48#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Unit_Multiplikation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -837,7 +732,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Unit_Division.py">
+    <entry file="file://$PROJECT_DIR$/Unit_Allgemein.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
@@ -847,25 +742,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Bruch.py">
+    <entry file="file://$PROJECT_DIR$/Testall.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit_Addition.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        <state relative-caret-position="2295">
+          <caret line="155" column="46" selection-start-line="155" selection-start-column="46" selection-end-line="155" selection-end-column="46" />
           <folding>
             <element signature="e#48#63#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Unit_Allgemein.py">
+    <entry file="file://$PROJECT_DIR$/Unit_Addition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding>
+            <element signature="e#48#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit_Division.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+          <folding>
+            <element signature="e#48#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit_Zusatz.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
@@ -875,13 +782,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Testall.py">
+    <entry file="file://$USER_HOME$/Downloads/bruch/Bruch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-          <folding>
-            <element signature="e#48#63#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="230">
+          <caret line="188" column="36" selection-start-line="188" selection-start-column="33" selection-end-line="188" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bruch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1036">
+          <caret line="269" column="37" selection-start-line="269" selection-start-column="37" selection-end-line="269" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>
