@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1656bef8-3fbc-4a54-a57b-29adc0899f2a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.coverage" afterPath="$PROJECT_DIR$/.coverage" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Testall.py" afterPath="$PROJECT_DIR$/Testall.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nosetests.xml" afterPath="$PROJECT_DIR$/nosetests.xml" />
-    </list>
+    <list default="true" id="1656bef8-3fbc-4a54-a57b-29adc0899f2a" name="Default" comment="" />
     <ignored path="bruch01.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -593,7 +589,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="839" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="839" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
