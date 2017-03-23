@@ -212,6 +212,6 @@ ImportError: No module named 'Bruch'
   File "<frozen importlib._bootstrap_external>", line 665, in exec_module
   File "<frozen importlib._bootstrap>", line 222, in _call_with_frames_removed
   File "/Users/dwojdyla/Documents/bruch01/Testall.py", line 7, in <module>
-    from Bruch import *
+    import Bruch
 ImportError: No module named 'Bruch'
 ]]></error></testcase></testsuite>
